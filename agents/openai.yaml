@@ -1,0 +1,6 @@
+interface:
+  display_name: "想法架构图"
+  short_description: "把一个模糊想法逐步收敛成一张清晰、可讨论的系统架构图"
+  default_prompt: "Use $idea-to-architecture to turn my idea into one clear system architecture diagram."
+policy:
+  allow_implicit_invocation: true
